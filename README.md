@@ -49,8 +49,8 @@ Steam wishlist link coming soon...
 <h1 align="center">My socials and stuff</h1>
 
 <p align="center">
-  <a href="https://discord.gg/your-invite-code">
-    <img src="https://img.shields.io/badge/Discord-Join (not working for now)-9EAAFF?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://discord.gg/T7CYtvnUW2">
+    <img src="https://img.shields.io/badge/Discord-Join-9EAAFF?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://youtube.com/@b3e-dev">
     <img src="https://img.shields.io/badge/Youtube-b3e-9EAAFF?style=for-the-badge&logo=youtube&logoColor=white" />
