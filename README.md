@@ -28,7 +28,7 @@ Steam wishlist link coming soon...
 
 <h1 align="center">Stuff im doing</h1>
 
-| coding in **Python**, **JavaScript**, **C#** and **Lua**<br>
+| coding in **python**, **javascript**, **C#** and **lua**<br>
 | playing mc, fortnite, terraria, helldivers, and pretty much any random horror game on steam<br>
 | hanging out with my girlfriend or friends<br>
 | always working on *something*<br>
