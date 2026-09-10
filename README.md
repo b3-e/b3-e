@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=b3e-dev&style=flat-square&color=9EAAFF&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/b3e-dev?style=flat-square&color=9EAAFF&label=Followers" />
+  <img src="https://komarev.com/ghpvc/?username=b3-e&style=flat-square&color=9EAAFF&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/b3-e?style=flat-square&color=9EAAFF&label=Followers" />
 </p>
 
 <h1 align="center">About me</h1>
@@ -52,7 +52,7 @@ Steam wishlist link coming soon...
   <a href="https://discord.gg/T7CYtvnUW2">
     <img src="https://img.shields.io/badge/Discord-Join-9EAAFF?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://youtube.com/@b3e-dev">
+  <a href="https://youtube.com/@b3-e">
     <img src="https://img.shields.io/badge/Youtube-b3e-9EAAFF?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
